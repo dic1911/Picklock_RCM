@@ -1,32 +1,10 @@
-# Prerequisites
-*.d
-
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
+.vs
+.vscode
+build/*
+output/*
+research/*
+loader/payload_00.h
+loader/payload_01.h
+tools/bin2c/bin2c
+keygen/tsec_keygen.h
+tools/lz/lz77
